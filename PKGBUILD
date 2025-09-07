@@ -1,5 +1,5 @@
 # Maintainer: Your Name <your.email@example.com>
-pkgname=clang-include-graph
+pkgname=clang-include-graph-git
 pkgver=0.2.0
 pkgrel=1
 pkgdesc="A tool to generate include dependency graphs for C/C++ projects."

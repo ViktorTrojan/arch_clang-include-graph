@@ -12,5 +12,5 @@ sha256sums=('SKIP')
 
 package() {
   install -Dm755 "${srcdir}/clang-include-graph" "${pkgdir}/usr/bin/clang-include-graph"
-  install -Dm644 LICENSE.md "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+  # install -Dm644 LICENSE.md "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
 }
